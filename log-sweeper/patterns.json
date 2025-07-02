@@ -1,0 +1,7 @@
+{
+    "timeout": "Connection timed out",
+    "file_not_found": "File not found",
+    "permission_error": "Permission denied",
+    "disk_warning": "Disk space low",
+    "overheat_critical": "System overheating detected"
+}
